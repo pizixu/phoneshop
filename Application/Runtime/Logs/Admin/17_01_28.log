@@ -1,0 +1,21 @@
+[ 2017-01-28T16:58:19+08:00 ] ::1 /phoneshop/index.php/Admin/Manager/left
+ERR: XML标签语法错误 : condition='$vo2['auth_id'] eq $vo1['auth_pid']'
+
+[ 2017-01-28T17:00:14+08:00 ] ::1 /phoneshop/index.php/Admin/Manager/left
+ERR: XML标签语法错误 : condition='$vo2['auth_pid'] eq $vo1['auth_id']'
+
+[ 2017-01-28T17:03:16+08:00 ] ::1 /phoneshop/index.php/Admin/Manager/left
+ERR: XML标签语法错误 : condition='$vo2['auth_pid'] eq $vo1['auth_id']'
+
+[ 2017-01-28T20:36:10+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/brand
+ERR: 非法操作:brand
+
+[ 2017-01-28T20:36:42+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/brand
+ERR: 非法操作:brand
+
+[ 2017-01-28T21:40:30+08:00 ] ::1 /phoneshop/index.php/Admin/Role/update/goods_id/1
+ERR: 参数错误或者未定义:role_id
+
+[ 2017-01-28T21:42:07+08:00 ] ::1 /phoneshop/index.php/Admin/Role/update/goods_id/1
+ERR: 参数错误或者未定义:role_id
+

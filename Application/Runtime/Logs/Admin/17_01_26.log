@@ -1,0 +1,10 @@
+[ 2017-01-26T14:43:24+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/showlist
+ERR: 1054:Champ 'status' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `sw_goods` WHERE ( status=1 ) LIMIT 1  
+
+[ 2017-01-26T21:06:49+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/manager
+ERR: 非法操作:manager
+
+[ 2017-01-26T21:07:00+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/manager/index
+ERR: 非法操作:manager
+

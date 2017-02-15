@@ -1,0 +1,9 @@
+[ 2017-01-29T01:34:21+08:00 ] ::1 /phoneshop/index.php/Admin/Authority/Authority/add
+ERR: 非法操作:Authority
+
+[ 2017-01-29T01:35:23+08:00 ] ::1 /phoneshop/index.php/Admin/Authority/Authority/add
+ERR: 非法操作:Authority
+
+[ 2017-01-29T23:30:46+08:00 ] ::1 /phoneshop/index.php/Admin/Authority/add
+ERR: 参数错误或者未定义:auth_id
+

@@ -1,0 +1,10 @@
+[ 2017-01-23T18:24:01+08:00 ] ::1 /phoneshop/index.php/Admin/index/test1
+ERR: XML标签语法错误 : start=0 end=100 step=10
+
+[ 2017-01-23T21:45:11+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/css/mine.css
+ERR: 非法操作:css
+
+[ 2017-01-23T23:57:42+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/showlist
+ERR: 1146:La table 'shop.sw_‘goods' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `sw_‘goods`
+

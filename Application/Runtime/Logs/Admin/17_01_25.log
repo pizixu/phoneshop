@@ -1,0 +1,14 @@
+[ 2017-01-25T13:59:50+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/update/id/146
+ERR: 参数错误或者未定义:goods_id
+
+[ 2017-01-25T15:27:36+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/update/goods_id/146
+ERR: 1146:La table 'shop.sw_good' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `sw_good`
+
+[ 2017-01-25T15:29:47+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/update/goods_id/146
+ERR: 1146:La table 'shop.sw_good' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `sw_good`
+
+[ 2017-01-25T17:15:15+08:00 ] ::1 /phoneshop/index.php/Admin/Goods/del/goods_id/146
+ERR: 非法操作:del
+
